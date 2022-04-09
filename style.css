@@ -103,4 +103,9 @@ header {
   br {
     display: none;
   }
+
+  body {
+    background-image: url(./images/joaquin-OFJhglKLGbs-unsplash.jpg);
+    background-repeat: no-repeat;
+  }
 }
