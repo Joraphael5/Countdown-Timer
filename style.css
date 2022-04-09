@@ -6,6 +6,7 @@
 body {
   font-family: "poppins", sans-serif;
   background-image: url(./images/joaquin-OFJhglKLGbs-unsplash.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   flex-direction: column;
